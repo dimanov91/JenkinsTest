@@ -1,0 +1,10 @@
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.rxtmg
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.rxtst
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.exe.config
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.xml
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.exe
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\RanorexLogInJenkins.pdb
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\obj\x86\Debug\RanorexLogInJenkins.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\obj\x86\Debug\RanorexLogInJenkins.exe
+C:\Users\georg\Documents\Ranorex\RanorexStudio Projects\RanorexLogInJenkins\RanorexLogInJenkins\obj\x86\Debug\RanorexLogInJenkins.pdb

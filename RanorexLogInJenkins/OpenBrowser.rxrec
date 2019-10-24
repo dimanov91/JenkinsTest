@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ce6920f3-3d09-4cf5-9e06-6603efafb366"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="RanorexLogInJenkins">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://desktop-c80mesn/arsys/shared/login.jsp?/arsys/forms/desktop-c80mesn/SHR%3ALandingConsole/Default+Administrator+View/?cacheid=d77da0c6
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="2205269d-faad-4d29-9db6-b708ee4822ce"
+	name="RanorexLogInJenkinsRepository"
+	relativepath="RanorexLogInJenkinsRepository.rxrep">
+		<codegen
+		classname="RanorexLogInJenkinsRepository"
+		namespace="RanorexLogInJenkins">
+		</codegen>
+		<rootfolder
+		id="238cd5d6-5080-4e0b-a46c-02d2408aed3f"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

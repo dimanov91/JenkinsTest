@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="1ead2d06-4f55-4663-8888-47f68690c06d"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="RanorexLogInJenkins">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="52f986f0-8ec2-420b-a486-8977690f0eb1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="b1356308-6cc6-4b58-a175-5e28ab3124a1"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="2205269d-faad-4d29-9db6-b708ee4822ce"
+	name="RanorexLogInJenkinsRepository"
+	relativepath="RanorexLogInJenkinsRepository.rxrep">
+		<codegen
+		classname="RanorexLogInJenkinsRepository"
+		namespace="RanorexLogInJenkins">
+		</codegen>
+		<rootfolder
+		id="238cd5d6-5080-4e0b-a46c-02d2408aed3f"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
